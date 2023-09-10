@@ -1,0 +1,11 @@
+.home {
+    flex: 4;
+    min-height: calc(100vh - 45px);
+    height: 100%;
+    padding-bottom: 50px;
+}
+
+.homeWidgets {
+    display: flex;
+    margin: 20px;
+}
